@@ -1,0 +1,1 @@
+# Java22-AvaJava-miniProjekt2-Max-Flink
